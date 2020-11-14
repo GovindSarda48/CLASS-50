@@ -1,0 +1,26 @@
+
+           h1{
+               color: blue;
+           }
+
+           
+           
+       .header{
+           background-color: aquamarine;
+           display: flex;
+           flex-wrap: wrap;
+           justify-content: space-evenly;
+       }
+
+       .Grid{
+           display: flex;
+           flex-wrap: wrap;
+          justify-content: space-evenly;
+       }
+
+       .footer{
+           display: flex;
+           justify-content: flex-end;
+
+       }
+
